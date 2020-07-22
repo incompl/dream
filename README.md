@@ -16,4 +16,4 @@ dream only accepts one word commands
 
 `story.js` is the example game
 
-[demo](http://static.incompl.com/dream/)
+[demo](https://dusk.incompl.com)
